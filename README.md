@@ -15,3 +15,9 @@ Example in Chocolate Quest dungeon , with some itemframes in my modpack i don't 
 # Example
 
 In my Biggess Pack Cat Edition modpack , when i have some items frames ~200 fps, when all items frame got removed ~ 700 fps
+
+# Discord
+
+Add me on discord : I'm A Cat[FR]#7202
+
+Discord server : https://discord.gg/ZnmHKJzKkZ
