@@ -24,9 +24,9 @@ apply plugin: 'forge'
 sourceCompatibility = 1.8
 targetCompatibility = 1.8
 
-version = "1.7.10-0.3"
-group= "com.cat.catmod"
-archivesBaseName = "Catmod"
+version = "1.7.10-0.1"
+group= "fr.iamacat.itemframeremover"
+archivesBaseName = "Item Frame Remover"
 
 minecraft {
     version = project.minecraft_version + "-" + project.forge_version

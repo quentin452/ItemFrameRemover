@@ -1,6 +1,4 @@
-package fr.iamacat.catmod.proxy;
-
-import fr.iamacat.catmod.init.RegisterEntity;
+package fr.iamacat.itemframeremover.proxy;
 
 public class ClientProxy extends CommonProxy{
     @Override

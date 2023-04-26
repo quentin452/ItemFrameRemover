@@ -1,6 +1,4 @@
-package fr.iamacat.catmod.proxy;
-
-import static fr.iamacat.catmod.Catmod.proxy;
+package fr.iamacat.itemframeremover.proxy;
 
 public abstract class CommonProxy
 {

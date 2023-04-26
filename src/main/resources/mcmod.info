@@ -1,8 +1,8 @@
 [
 {
-  "modid": "catmod",
-  "name": "Cat Mod",
-  "description": "Just a mod with few things.",
+  "modid": "itemframeremover",
+  "name": "Item Frame Remover",
+  "description": "Optimize My modpacks by removing itemframe when get placed , draconic evolution item placer exist.",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
