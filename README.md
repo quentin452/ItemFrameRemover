@@ -6,8 +6,12 @@ Example in Chocolate Quest dungeon , with some itemframes in my modpack i don't 
 
 # Link
 
-[*Modrinth*]()
+[*Modrinth*](https://modrinth.com/mod/itemframeremover)
 
 [*Github*](https://github.com/quentin452/ItemFrameRemover)
 
 [*Curseforge*]()
+
+# Example
+
+In my Biggess Pack Cat Edition modpack , when i have some items frames ~200 fps, when all items frame got removed ~ 700 fps
