@@ -10,7 +10,7 @@ Example in Chocolate Quest dungeon , with some itemframes in my modpack i don't 
 
 [*Github*](https://github.com/quentin452/ItemFrameRemover)
 
-[*Curseforge*]()
+[*Curseforge*](https://legacy.curseforge.com/minecraft/mc-mods/itemframeremover)
 
 # Example
 
