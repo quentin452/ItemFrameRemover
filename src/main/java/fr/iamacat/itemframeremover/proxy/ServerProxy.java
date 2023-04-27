@@ -1,6 +1,6 @@
 package fr.iamacat.itemframeremover.proxy;
 
-public abstract class CommonProxy
+public class ServerProxy
 {
     public void registerRenders()
     {

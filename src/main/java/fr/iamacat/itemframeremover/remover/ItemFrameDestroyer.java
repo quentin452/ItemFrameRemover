@@ -1,4 +1,4 @@
-package fr.iamacat.itemframeremover.remvoer;
+package fr.iamacat.itemframeremover.remover;
 
 import cpw.mods.fml.common.eventhandler.SubscribeEvent;
 import net.minecraft.entity.Entity;
